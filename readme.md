@@ -15,4 +15,15 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ## 📦 Configuração e Instalação
 
-1. **Clone o repositório**
+1. **Clone o repositório:**
+```bash
+https://github.com/NaldoBatista/chat_terminal_rabbitmq.git
+```
+2. **Instale as dependências**
+```bash
+npm install
+```
+3. **Inicialize o container do RabbitMq**
+```bash
+docker-compose up -d
+```
