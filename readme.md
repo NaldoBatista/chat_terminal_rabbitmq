@@ -2,6 +2,9 @@
 
 Um sistema de chat via terminal desenvolvido em **TypeScript** utilizando **RabbitMQ** como message broker.
 
+Projeto desenvolvido com o intuito de praticar o
+conhecimento de gerenciameto de filas e mensagens. 
+
 ## 🚀 Tecnologias
 * [Node.js](https://nodejs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
